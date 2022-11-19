@@ -13,6 +13,6 @@ Roughly 18 months later, I'm minoring in Computer Science and working on an inde
 
 Some hobbies of mine include:
 1. Filmmaking
-2. ![Photography](https://500px.com/photo/307273697/approaching-storm-by-alex-molinari)
+2. [Photography](IMG_5631.jpg)
 3. Music Production
 4. [Muay Thai](https://en.wikipedia.org/wiki/Muay_Thai)
