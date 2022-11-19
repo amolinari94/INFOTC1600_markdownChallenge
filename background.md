@@ -1,5 +1,5 @@
-1. homepage
-2. [Background](background.md)
+1. homepage (README.md)
+2. [Background]
 3. [Interests in IT and CS](interests_in_CS.md)
 
 
