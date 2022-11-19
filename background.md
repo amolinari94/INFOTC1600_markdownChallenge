@@ -16,3 +16,5 @@ Some hobbies of mine include:
 2. [Photography](IMG_5631.jpg)
 3. Music Production
 4. [Muay Thai](https://en.wikipedia.org/wiki/Muay_Thai)
+
+<img src="IMG_5631.jpg" alt="photo" width="200"/>
