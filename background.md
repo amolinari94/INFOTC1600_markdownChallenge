@@ -13,8 +13,11 @@ Roughly 18 months later, I'm minoring in Computer Science and working on an inde
 
 Some hobbies of mine include:
 1. Filmmaking
-2. [Photography](IMG_5631.jpg)
+2. Photography:
+<img src="IMG_5631.jpg" alt="photo" width="400"/>
+
+
 3. Music Production
 4. [Muay Thai](https://en.wikipedia.org/wiki/Muay_Thai)
 
-<img src="IMG_5631.jpg" alt="photo" width="200"/>
+
