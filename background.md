@@ -1,6 +1,6 @@
-1. homepage (README.md)
-2. [Background]
-3. [Interests in IT and CS](interests_in_CS.md)
+1. [homepage](README.md)
+3. Background
+4. [Interests in IT and CS](interests_in_CS.md)
 
 
 ### Programming Experience
